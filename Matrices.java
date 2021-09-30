@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class matrices {
+public class Matrices {
  public static void main(String args[])
    {
       int m, n, c, d;
